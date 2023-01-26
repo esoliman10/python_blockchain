@@ -1,0 +1,2 @@
+More on Loops: https://docs.python.org/3/tutorial/controlflow.html#for-statements
+More on if Statements: https://docs.python.org/3/tutorial/controlflow.html#if-statements
